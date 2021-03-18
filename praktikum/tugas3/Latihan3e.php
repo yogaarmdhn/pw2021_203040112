@@ -8,8 +8,14 @@ Shift Praktikum : Kamis pukul 08:00
 $barang = [
     [
         "nama"=>"AGV Pista GP-RR Limited Edition Speciale",
-        "detailBarang"=>"Material : 100% Carbon Fiber, Visor : Red Visor, Chinstrap : DD Ring",
-        "sizeChart"=>"M : 57-58 cm, ML : 59 cm, L : 60 cm, XL : 61-62 cm, XXL : 63-64 cm",
+        "detailBarang"=>"Material : 100% Carbon Fiber
+        <br>Visor : Red Visor
+        <br>Chinstrap : DD Ring",
+        "sizeChart"=>"M : 57-58 cm
+        <br>ML : 59 cm
+        <br>L : 60 cm
+        <br>XL : 61-62 cm
+        <br>XXL : 63-64 cm",
         "harga"=>38000000,
         "stokBarang"=>4,
         "foto"=>"pistagprr.png"
